@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windfury", "Windfury\Windfury.csproj", "{E1F41222-FB14-489D-B55E-DA8396FAF7AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windfury.Tests", "Windfury.Tests\Windfury.Tests.csproj", "{32FDDCE3-7325-48DC-A9CB-853DEA407789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1F41222-FB14-489D-B55E-DA8396FAF7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F41222-FB14-489D-B55E-DA8396FAF7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F41222-FB14-489D-B55E-DA8396FAF7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F41222-FB14-489D-B55E-DA8396FAF7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FDDCE3-7325-48DC-A9CB-853DEA407789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FDDCE3-7325-48DC-A9CB-853DEA407789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FDDCE3-7325-48DC-A9CB-853DEA407789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FDDCE3-7325-48DC-A9CB-853DEA407789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
